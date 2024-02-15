@@ -25,4 +25,4 @@ Please make sure to update tests as appropriate.
 
 ## Link to the document
 
-(https://raksha-shenoy.github.io/githubpage/)
+[link to the document] (https://raksha-shenoy.github.io/githubpage/)
