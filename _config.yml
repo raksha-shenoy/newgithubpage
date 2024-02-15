@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
 sass:
+    sass_dir: _sass
     style: compressed
